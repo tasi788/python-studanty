@@ -8,7 +8,8 @@ while n > 0:
     n = n - 1
 print(r)
 
-radius = 10
+input = input('請輸入圓半徑數值:')
+radius = float(input)
 PI = 3.14
 print('圓半徑：', radius)
 print('圓周長：', 2 * PI * radius)
