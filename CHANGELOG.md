@@ -1,5 +1,22 @@
 # Changelog
 
+## [1.2.5](https://github.com/cloverdefa/python-studanty/compare/v1.2.4...v1.2.5) (2023-07-30)
+
+
+### Docs
+
+* update prompts for name and age to English ([df58a90](https://github.com/cloverdefa/python-studanty/commit/df58a90c381ee18326702a9f1c6d6cd414987e9c))
+
+
+### Styling
+
+* update input prompt and year conversion methods ([9d1c1aa](https://github.com/cloverdefa/python-studanty/commit/9d1c1aa0b435ccc58c272c80e23cc2f23c7c40ef))
+
+
+### Code Refactoring
+
+* refactor variable names and calculations for consistency ([1a1e199](https://github.com/cloverdefa/python-studanty/commit/1a1e19901244cdf56091d02aa73e723de2c1bed9))
+
 ## [1.2.4](https://github.com/cloverdefa/python-studanty/compare/v1.2.3...v1.2.4) (2023-07-30)
 
 
