@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.1](https://github.com/cloverdefa/python-studanty/compare/v1.2.0...v1.2.1) (2023-07-30)
+
+
+### Styling
+
+* refactor print statement to use f-string formatting ([8255e79](https://github.com/cloverdefa/python-studanty/commit/8255e79f673bf93310d6505b50a34d6db50b6dce))
+
 ## [1.2.0](https://github.com/cloverdefa/python-studanty/compare/v1.1.0...v1.2.0) (2023-07-30)
 
 
