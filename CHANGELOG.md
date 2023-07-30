@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.2](https://github.com/cloverdefa/python-studanty/compare/v1.2.1...v1.2.2) (2023-07-30)
+
+
+### Code Refactoring
+
+* change variable `years` from float to integer ([6aa758c](https://github.com/cloverdefa/python-studanty/commit/6aa758c847eecaea9c8a844d7d7f6d147ac16046))
+
 ## [1.2.1](https://github.com/cloverdefa/python-studanty/compare/v1.2.0...v1.2.1) (2023-07-30)
 
 
