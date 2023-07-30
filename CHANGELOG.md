@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.4](https://github.com/cloverdefa/python-studanty/compare/v1.2.3...v1.2.4) (2023-07-30)
+
+
+### Code Refactoring
+
+* refactor variable assignments and fix typos in print statements ([7a70f5f](https://github.com/cloverdefa/python-studanty/commit/7a70f5f5cbf0019c1f18c229a90257bdb143a503))
+
 ## [1.2.3](https://github.com/cloverdefa/python-studanty/compare/v1.2.2...v1.2.3) (2023-07-30)
 
 
