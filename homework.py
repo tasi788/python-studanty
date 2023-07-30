@@ -1,5 +1,5 @@
-name = input('請輸入姓名：')
-age = int(input('請輸入年齡'))
+name = input('請輸入姓名:')
+age = int(input('請輸入年齡:'))
 
 years = 60 - age
 
