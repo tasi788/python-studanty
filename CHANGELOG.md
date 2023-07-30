@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.0](https://github.com/cloverdefa/python-studanty/compare/v1.1.0...v1.2.0) (2023-07-30)
+
+
+### Features
+
+* print type and value of `z` ([014eadb](https://github.com/cloverdefa/python-studanty/commit/014eadbafc4f35efa8f17aedadf4e32f81c04a64))
+
 ## [1.1.0](https://github.com/cloverdefa/python-studanty/compare/v1.0.0...v1.1.0) (2023-07-30)
 
 
