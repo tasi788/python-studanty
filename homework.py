@@ -1,5 +1,4 @@
 name = input("請輸入姓名：")
 years = input("請輸入年齡：")
 workyears = 60 - float(years)
-print('姓名', name)
-print('還有', workyears ,'年退休')
+print(f'姓名', {name}, '還有', {workyears}, '年退休')
