@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.3](https://github.com/cloverdefa/python-studanty/compare/v1.2.2...v1.2.3) (2023-07-30)
+
+
+### Docs
+
+* fix typos and improve code quality in multiple files ([4016ff2](https://github.com/cloverdefa/python-studanty/commit/4016ff2138d4195abb996bfabafb5c5229863dd3))
+
 ## [1.2.2](https://github.com/cloverdefa/python-studanty/compare/v1.2.1...v1.2.2) (2023-07-30)
 
 
