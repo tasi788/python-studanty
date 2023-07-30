@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/cloverdefa/python-studanty/compare/v1.0.0...v1.1.0) (2023-07-30)
+
+
+### Features
+
+* calculate average of x and y ([71d19e9](https://github.com/cloverdefa/python-studanty/commit/71d19e927586915926a6e2cba8f27b799b189b3a))
+
 ## 1.0.0 (2023-07-30)
 
 
