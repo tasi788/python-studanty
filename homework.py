@@ -1,9 +1,9 @@
 name = input('請輸入姓名：')
-year = int(input('請輸入年齡'))
+age = int(input('請輸入年齡'))
 
-workyears = 60 - year
+years = 60 - age
 
-if year >= 65:
+if age >= 65:
     print('您的年齡已達退休年齡')
 else:
-    print(f'姓名', name, '還有', workyears, '年退休')
+    print(f'姓名', name, '還有', years, '年退休')
