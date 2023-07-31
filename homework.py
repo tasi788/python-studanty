@@ -1,3 +1,6 @@
+#!/usr/bin/env python
+# 本檔案內容為輸入姓名及年齡後進行法定退休年齡自動計算
+
 name = input('請輸入姓名:')
 age = int(input('請輸入年齡:'))
 workyears = 65      #法定退休年齡
