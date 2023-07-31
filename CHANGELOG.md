@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.8](https://github.com/cloverdefa/python-studanty/compare/v1.2.7...v1.2.8) (2023-07-31)
+
+
+### Code Refactoring
+
+* refactor age input handling ([5287e8a](https://github.com/cloverdefa/python-studanty/commit/5287e8a7879d8a26158036ff48aec48dda5a2f06))
+
 ## [1.2.7](https://github.com/cloverdefa/python-studanty/compare/v1.2.6...v1.2.7) (2023-07-31)
 
 
