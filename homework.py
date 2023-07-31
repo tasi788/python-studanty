@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 # 本檔案內容為輸入姓名及年齡後進行法定退休年齡自動計算
 
 name = input('請輸入姓名:')
