@@ -12,7 +12,7 @@ while True:
         age = int(input('請輸入年齡:'))
         break
     except ValueError:
-        print('請輸入正確數值')
+        print('請重新輸入正確數值，年齡需為數字')
 
 workyears = 65    #設定法定退休年齡
 years = workyears - age    #法定退休年齡減去目前年齡
