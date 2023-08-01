@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.4.2](https://github.com/cloverdefa/python-studanty/compare/v1.4.1...v1.4.2) (2023-08-01)
+
+
+### Code Refactoring
+
+* refactor file formatting and exit message ([266d911](https://github.com/cloverdefa/python-studanty/commit/266d911fefd581e67e5a26d8f79ee01227518913))
+
 ## [1.4.1](https://github.com/cloverdefa/python-studanty/compare/v1.4.0...v1.4.1) (2023-08-01)
 
 
