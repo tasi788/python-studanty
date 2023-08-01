@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.0](https://github.com/cloverdefa/python-studanty/compare/v1.2.8...v1.3.0) (2023-08-01)
+
+
+### Features
+
+* add retirement age calculator script ([4db1b15](https://github.com/cloverdefa/python-studanty/commit/4db1b158ffca67f22b534f55a43c571f6708521b))
+
 ## [1.2.8](https://github.com/cloverdefa/python-studanty/compare/v1.2.7...v1.2.8) (2023-07-31)
 
 
