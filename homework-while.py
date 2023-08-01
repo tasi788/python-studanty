@@ -1,11 +1,10 @@
 #!/usr/bin/env python3
 # 本檔案內容為輸入姓名及年齡後進行法定退休年齡自動計算
 
-import sys    #載入sys
+import sys    #載入sys套件
 
 name = input('請輸入姓名:')
 
-age = 0    #提前定義age參數為數字
 # 要求輸入年齡的資料必須為數字，若不是數字則返回要求重新輸入年齡
 while True:
     try:
