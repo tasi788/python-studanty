@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.6.0](https://github.com/cloverdefa/python-studanty/compare/v1.5.1...v1.6.0) (2023-08-01)
+
+
+### Features
+
+* add retirement age calculator with user input and delay ([edfc76f](https://github.com/cloverdefa/python-studanty/commit/edfc76f53fc1b414379f0868f65341a98f656797))
+
 ## [1.5.1](https://github.com/cloverdefa/python-studanty/compare/v1.5.0...v1.5.1) (2023-08-01)
 
 
