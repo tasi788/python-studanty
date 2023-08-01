@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.7.0](https://github.com/cloverdefa/python-studanty/compare/v1.6.0...v1.7.0) (2023-08-01)
+
+
+### Features
+
+* fix retirement age calculation and remove unnecessary code ([d2e97a6](https://github.com/cloverdefa/python-studanty/commit/d2e97a648239394b56e46fcfd1c5d754052fd8ee))
+
 ## [1.6.0](https://github.com/cloverdefa/python-studanty/compare/v1.5.1...v1.6.0) (2023-08-01)
 
 
