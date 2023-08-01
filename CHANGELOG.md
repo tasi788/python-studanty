@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.5.1](https://github.com/cloverdefa/python-studanty/compare/v1.5.0...v1.5.1) (2023-08-01)
+
+
+### Styling
+
+* update print and error messages, add new line at end of file ([83571ea](https://github.com/cloverdefa/python-studanty/commit/83571ea128da866d72e8a455251b9e09a43a287c))
+
 ## [1.5.0](https://github.com/cloverdefa/python-studanty/compare/v1.4.2...v1.5.0) (2023-08-01)
 
 
