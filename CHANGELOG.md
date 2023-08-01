@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.4.0](https://github.com/cloverdefa/python-studanty/compare/v1.3.3...v1.4.0) (2023-08-01)
+
+
+### Features
+
+* add time module import and exit pauses in homework scripts ([bdb788e](https://github.com/cloverdefa/python-studanty/commit/bdb788ef64ed41b8903ec1d81c869b1a5fc8b279))
+
 ## [1.3.3](https://github.com/cloverdefa/python-studanty/compare/v1.3.2...v1.3.3) (2023-08-01)
 
 
