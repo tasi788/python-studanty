@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.3](https://github.com/cloverdefa/python-studanty/compare/v1.3.2...v1.3.3) (2023-08-01)
+
+
+### Docs
+
+* change error message for invalid input when age is not a number ([0a4ee29](https://github.com/cloverdefa/python-studanty/commit/0a4ee2981472fba5188009b58504af11cd5fa858))
+
 ## [1.3.2](https://github.com/cloverdefa/python-studanty/compare/v1.3.1...v1.3.2) (2023-08-01)
 
 
