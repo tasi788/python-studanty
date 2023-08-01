@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.5.0](https://github.com/cloverdefa/python-studanty/compare/v1.4.2...v1.5.0) (2023-08-01)
+
+
+### Features
+
+* update input prompt and error message for retirement age calculation ([c9be5b5](https://github.com/cloverdefa/python-studanty/commit/c9be5b5e10ab93a6c51f18c4b58a81e7aa02a0ee))
+
 ## [1.4.2](https://github.com/cloverdefa/python-studanty/compare/v1.4.1...v1.4.2) (2023-08-01)
 
 
