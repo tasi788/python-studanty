@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.4.1](https://github.com/cloverdefa/python-studanty/compare/v1.4.0...v1.4.1) (2023-08-01)
+
+
+### Code Refactoring
+
+* refactor file imports and variable names in homework files ([4c2bde8](https://github.com/cloverdefa/python-studanty/commit/4c2bde8b658f9d4cce9149693c1bd0e843f578b8))
+
 ## [1.4.0](https://github.com/cloverdefa/python-studanty/compare/v1.3.3...v1.4.0) (2023-08-01)
 
 
