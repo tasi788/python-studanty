@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.2](https://github.com/cloverdefa/python-studanty/compare/v1.3.1...v1.3.2) (2023-08-01)
+
+
+### Code Refactoring
+
+* remove import statement for the `sys` package ([ff1e051](https://github.com/cloverdefa/python-studanty/commit/ff1e051e5db5aa0b103cf7c1dbce3d16f359319f))
+
 ## [1.3.1](https://github.com/cloverdefa/python-studanty/compare/v1.3.0...v1.3.1) (2023-08-01)
 
 
