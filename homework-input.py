@@ -10,7 +10,7 @@ age = 0    #提前定義age為數字
 try:
     age = int(input('請輸入年齡：'))
 except ValueError:
-    print('請重新輸入正確數值，年齡需為數字')
+    print('請重新執行程式，輸入年齡需為數字')
     sys.exit(1)
 
 workyears = 65    #設定法定退休年齡
