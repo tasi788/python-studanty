@@ -2,6 +2,7 @@
 # 本程式內容為輸入姓名及年齡後進行法定退休年齡自動計算
 
 import sys    #載入sys模組
+import time    #載入time模組
 
 name = input('請輸入姓名:')
 
@@ -21,3 +22,5 @@ if age >= workyears:
     print('您的年齡已達退休年齡')
 else:
     print(f'姓名', name, '還有', years, '年退休')
+
+time.sleep(10)    #停留10秒後退出程式
