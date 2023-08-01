@@ -22,4 +22,5 @@ if age >= workyears:
 else:
     print(f'姓名', name, '還有', years, '年退休')
 
+print('【5秒後自動退出程式】')
 t.sleep(5)    # 停留5秒後退出程式
