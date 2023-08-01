@@ -4,6 +4,7 @@
 import sys as s   #載入sys模組，並取名為s
 import time as t   #載入time模組，並取名為t
 
+print('本程式內容為輸入姓名及年齡後進行法定退休年齡自動計算')
 name = input('請輸入姓名:')
 
 # 要求輸入年齡的資料必須為數字，若不是數字則返回錯誤訊息並退出
