@@ -14,6 +14,7 @@ while True:
         break
     except ValueError:
         print('請重新輸入正確數值，年齡需為數字')
+        print('或按下CTRL+C退出程式')
         continue
 
 years = workyears - age    # 設定years為計算退休年齡
