@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.8.0](https://github.com/cloverdefa/python-studanty/compare/v1.7.2...v1.8.0) (2023-08-04)
+
+
+### Features
+
+* add user exit message and retirement age calculation ([d3f44c1](https://github.com/cloverdefa/python-studanty/commit/d3f44c1f16c825082d039e26d6eaf646c8487761))
+
 ## [1.7.1](https://github.com/cloverdefa/python-studanty/compare/v1.7.0...v1.7.1) (2023-08-01)
 
 
