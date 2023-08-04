@@ -24,4 +24,4 @@ def numbers(years):
 Value = numbers(age)
 
 print('【5秒後自動退出程式】')
-t.sleep(5)    # 停留5秒後退出程式
+t.sleep(5)    # 停留5秒後結束程式

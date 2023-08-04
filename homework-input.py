@@ -27,5 +27,5 @@ else:
     print(f'姓名', name, '您還有', years, '年即將退休')
 
 print('【5秒後自動退出結束程式】')
-t.sleep(5)    # 停留5秒後退出程式
+t.sleep(5)    # 停留5秒後結束程式
 s.exit(0)
