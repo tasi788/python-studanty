@@ -14,6 +14,7 @@ while True:
         break
     except ValueError:
         print('請重新輸入正確數值，年齡需為數字')
+        print('或按下CTRL+C退出程式')
         continue
 # 設定目前年齡若大於等於法定退休年齡直接顯示已達退休年齡，若未達法定退休年齡則顯示計算後年數
 def numbers(years):
