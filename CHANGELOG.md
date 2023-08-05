@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.9.0](https://github.com/cloverdefa/python-studanty/compare/v1.8.0...v1.9.0) (2023-08-05)
+
+
+### Features
+
+* implement tic-tac-toe game functionality ([d5c3e4f](https://github.com/cloverdefa/python-studanty/commit/d5c3e4f66f0ce7963020096668010799ff42b2ab))
+
 ## [1.8.0](https://github.com/cloverdefa/python-studanty/compare/v1.7.2...v1.8.0) (2023-08-04)
 
 
