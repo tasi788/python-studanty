@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.11.0](https://github.com/cloverdefa/python-studanty/compare/v1.10.2...v1.11.0) (2023-08-06)
+
+
+### Features
+
+* update input prompt and error handling for string moves ([9a3026e](https://github.com/cloverdefa/python-studanty/commit/9a3026ed18bcf95249a182f8655027f78069fb8b))
+
 ## [1.10.2](https://github.com/cloverdefa/python-studanty/compare/v1.10.1...v1.10.2) (2023-08-06)
 
 
