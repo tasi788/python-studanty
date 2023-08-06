@@ -1,14 +1,16 @@
 #!/usr/bin/env python3
 
 import time as t    # 載入time模組，並取名為t
-print('本程式示範由LIST最後三組字串搬移至LIST最前方')
-# 定義X為十組字串的LIST
+
+print('本程式示範由List(串列)最後三組字串搬移至List最前方')
+
+# 定義X為十組字串的List串列
 x = ['a1', 'a2', 'a3', 'a4', 'a5', 'a6', 'a7', 'a8', 'a9', 'a10']
 
-print(x)    # 畫面顯示X LIST資料
-print('目前顯示LIST為X原始資料')
+print(x)    # 畫面顯示X List串列資料
+print('目前顯示為原始資料List串列')
 
-# 輸入需求搬移字串的數量，要求輸入搬移字串數目的資料必須為數字，若不是數字則返回要求重新輸入
+# 輸入需求搬移字串的數量，要求輸入搬移字串數目的資料必須為特定範圍內數字，若不是符合條件數字則返回要求重新輸入
 while True:
     try:
         n = int(input('請輸入搬移字串數量:(1-9)'))
@@ -29,7 +31,7 @@ while n > 0:
     n = n - 1
 
 print(x)    # 顯示搬移完成厚的成果
-print('目前顯示LIST為X搬移字串後資料')
+print('目前顯示List串列為搬移字串後資料')
 
 print('【5秒後自動退出程式】')
 t.sleep(5)    # 停留5秒後結束程式
