@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.10.0](https://github.com/cloverdefa/python-studanty/compare/v1.9.0...v1.10.0) (2023-08-06)
+
+
+### Features
+
+* implement rotation of elements in a list ([812e28c](https://github.com/cloverdefa/python-studanty/commit/812e28c31c5ea9e3dd29f821a030cab99bdb77f6))
+
 ## [1.9.0](https://github.com/cloverdefa/python-studanty/compare/v1.8.0...v1.9.0) (2023-08-05)
 
 
