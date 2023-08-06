@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.10.1](https://github.com/cloverdefa/python-studanty/compare/v1.10.0...v1.10.1) (2023-08-06)
+
+
+### Code Refactoring
+
+* improve code clarity and readability ([afce799](https://github.com/cloverdefa/python-studanty/commit/afce79946af863213828000d732c92f0675939f9))
+
 ## [1.10.0](https://github.com/cloverdefa/python-studanty/compare/v1.9.0...v1.10.0) (2023-08-06)
 
 
