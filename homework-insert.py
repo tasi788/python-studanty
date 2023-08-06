@@ -11,10 +11,14 @@ print('目前顯示LIST為X原始資料')
 # 輸入需求搬移字串的數量，要求輸入搬移字串數目的資料必須為數字，若不是數字則返回要求重新輸入年齡
 while True:
     try:
-        n = int(input('請輸入搬移字串數量:'))
-        break
+        n = int(input('請輸入搬移字串數量:(1-9)'))
+        if n < 10:
+            break
+        else:
+            print('輸入數字錯誤，請重新輸入數字(1-9)')
+            print('或按下CTRL+C退出程式')
     except ValueError:
-        print('請重新輸入正確數值，輸入需為數字')
+        print('請輸入數字(1-9),不接受數字以外輸入')
         print('或按下CTRL+C退出程式')
         continue
 
