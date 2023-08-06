@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.10.2](https://github.com/cloverdefa/python-studanty/compare/v1.10.1...v1.10.2) (2023-08-06)
+
+
+### Code Refactoring
+
+* refactor user input handling and error messaging ([bdb0624](https://github.com/cloverdefa/python-studanty/commit/bdb06244da126039afe1e92082620191134743e3))
+
 ## [1.10.1](https://github.com/cloverdefa/python-studanty/compare/v1.10.0...v1.10.1) (2023-08-06)
 
 
