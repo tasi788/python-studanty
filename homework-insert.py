@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 
+import time as t    # 載入time模組，並取名為t
 print('本程式示範由LIST最後三組字串搬移至LIST最前方')
 # 定義X為十組字串的LIST
 x = ['a1', 'a2', 'a3', 'a4', 'a5', 'a6', 'a7', 'a8', 'a9', 'a10']
@@ -24,3 +25,7 @@ while n > 0:
     n = n - 1
 
 print(x)    # 顯示搬移完成厚的成果
+print('目前顯示LIST為X搬移字串後資料')
+
+print('【5秒後自動退出程式】')
+t.sleep(5)    # 停留5秒後結束程式
