@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.11.1](https://github.com/cloverdefa/python-studanty/compare/v1.11.0...v1.11.1) (2023-08-06)
+
+
+### Styling
+
+* update language and user input prompt for string movements ([70cc2d3](https://github.com/cloverdefa/python-studanty/commit/70cc2d3d849de29560b6bcaa4a21b732b689da65))
+
 ## [1.11.0](https://github.com/cloverdefa/python-studanty/compare/v1.10.2...v1.11.0) (2023-08-06)
 
 
