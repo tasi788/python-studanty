@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.12.0](https://github.com/cloverdefa/python-studanty/compare/v1.11.1...v1.12.0) (2023-08-10)
+
+
+### Features
+
+* add support for `check_suite` events in auto-merge workflow ([85d3044](https://github.com/cloverdefa/python-studanty/commit/85d30440b5ee0fe8233ec824247a2bdd632deaf3))
+
 ## [1.11.1](https://github.com/cloverdefa/python-studanty/compare/v1.11.0...v1.11.1) (2023-08-06)
 
 
