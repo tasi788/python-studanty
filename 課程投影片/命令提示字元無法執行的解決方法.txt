@@ -1,0 +1,4 @@
+解除安裝 Anaconda 後，發現命令提示字元 (Prompt) 叫不出來了。
+解決方法：
+在 PowerShell 執行以下指令：
+Reg Delete "HKCU\Software\Microsoft\Command Processor" /v AutoRun /f
