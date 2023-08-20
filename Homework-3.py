@@ -1,3 +1,4 @@
+from operator import itemgetter
 import openpyxl
 
 wb = openpyxl.load_workbook('names_and_savings.xlsx')
@@ -19,8 +20,13 @@ print(type(ws.cell(row=1, column=2).value))
 print(type(ws.cell(row=1, column=3).value))
 
 
+for item in ws:
+    if ws.cell(row=1, column=3).value >= 20000:
+        ws.cell(row=1, column=4).value = 'VIP'
+    else:
+        pass
 
-ws.cell(row=1, column=4).value = 'VIP'
+#ws.cell(row=1, column=4).value = 'VIP'
 print(ws.cell(row=1, column=4).value)
 
 wb.save('names_and_savings_new.xlsx')
