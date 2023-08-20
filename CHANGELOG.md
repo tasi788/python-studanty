@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.14.0](https://github.com/cloverdefa/python-studanty/compare/v1.13.0...v1.14.0) (2023-08-20)
+
+
+### Features
+
+* add new file and functionality for counting spaces and newlines in a multi-line string ([5c9dd95](https://github.com/cloverdefa/python-studanty/commit/5c9dd95d57b6278a78edd580acb4e771aa165f73))
+
 ## [1.13.0](https://github.com/cloverdefa/python-studanty/compare/v1.12.0...v1.13.0) (2023-08-13)
 
 
