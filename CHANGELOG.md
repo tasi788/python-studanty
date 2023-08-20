@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.15.1](https://github.com/cloverdefa/python-studanty/compare/v1.15.0...v1.15.1) (2023-08-20)
+
+
+### Code Refactoring
+
+* refactor circle calculation logic ([c186614](https://github.com/cloverdefa/python-studanty/commit/c186614ef67b7184ff7d6133f504ad10369072bc))
+
 ## [1.15.0](https://github.com/cloverdefa/python-studanty/compare/v1.14.1...v1.15.0) (2023-08-20)
 
 
