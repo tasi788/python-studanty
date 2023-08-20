@@ -1,3 +1,4 @@
+from operator import itemgetter
 import openpyxl
 
 wb = openpyxl.load_workbook('names_and_savings.xlsx')
@@ -17,7 +18,6 @@ print(ws.cell(row=1, column=3).value)
 print(type(ws.cell(row=1, column=1).value))
 print(type(ws.cell(row=1, column=2).value))
 print(type(ws.cell(row=1, column=3).value))
-
 
 
 ws.cell(row=1, column=4).value = 'VIP'
