@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.14.1](https://github.com/cloverdefa/python-studanty/compare/v1.14.0...v1.14.1) (2023-08-20)
+
+
+### Code Refactoring
+
+* refactor code and update Excel file handling ([b353b22](https://github.com/cloverdefa/python-studanty/commit/b353b22913888f02ae06b00f4e6723b014ee0c70))
+
 ## [1.14.0](https://github.com/cloverdefa/python-studanty/compare/v1.13.0...v1.14.0) (2023-08-20)
 
 
