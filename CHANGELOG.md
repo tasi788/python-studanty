@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.15.0](https://github.com/cloverdefa/python-studanty/compare/v1.14.1...v1.15.0) (2023-08-20)
+
+
+### Features
+
+* add custom math functions and circle area calculation ([6744ad3](https://github.com/cloverdefa/python-studanty/commit/6744ad3e10f71b6ce54d06a133bcefe56c86be7b))
+* add new functionality to mymath.py ([2084e94](https://github.com/cloverdefa/python-studanty/commit/2084e9426f8eecdb7d0cac4daf52451a185bd728))
+
 ## [1.14.1](https://github.com/cloverdefa/python-studanty/compare/v1.14.0...v1.14.1) (2023-08-20)
 
 
